@@ -1,0 +1,103 @@
+body{
+  text-align:center;
+  font-family:'Poppins',sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color:#2381E6;
+  color: #B5FBB0;
+  margin:0px 0px 30px 0px;
+  
+}
+
+h1{
+  font-size:80px;
+  font-weight:800;
+}
+
+.navbar{
+  font-family:'Poppins',sans-serif !important;
+  background-color:#2381E6 !important;
+  padding-top:20px;
+  padding-bottom:20px;
+
+}
+
+.nav-link{
+  color: #B5FBB0 !important;
+  font-family:'Poppins',sans-serif !important;
+  font-size: 18px !important;
+}
+
+.navbar-brand{
+  color: #B5FBB0 !important;
+  font-family:'Poppins',sans-serif !important;
+  font-size: 30px !important;
+  padding-right: 30px;
+  
+}
+
+.navbar-toggler{
+  color: #B5FBB0 !important;
+}
+
+.container{
+    padding-top: 40px;
+   
+}
+
+.fundo{
+    
+    padding-top: 40px;
+    height: calc(100% - 56px);
+    height: 720px !important;
+    background-size: cover;
+    background-image: url(../../../assets/rect74.png);
+}
+
+.card{
+    border-radius: 20px;
+    margin: 0 auto 50px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.card-container{
+    max-width: 360px;
+    padding: 40px;
+    background-color: #91E4D9;
+}
+
+.form-control{
+    border-radius: 20px;
+}
+
+.btn-login{
+    font:'Poppins'!important;
+    text-transform: uppercase;
+    outline: 0;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.message{
+    font-family:'Poppins',sans-serif !important;
+    font:'Poppins'!important;
+    text-align: center;
+    margin: 20px 0 0;
+    color: #000000;
+    font-size: 12px;
+}
+
+.form-check-label{
+  font-family:'Poppins',sans-serif !important;
+  font:'Poppins'!important;
+  color: #000000
+}
+
+.card-img-top{
+  border-radius: 10px;
+  transition: transform .2s;
+}
+
+.card-img-top:hover {
+  transform: scale(1.1);
+}
