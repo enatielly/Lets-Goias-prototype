@@ -4,7 +4,7 @@ body{
   -webkit-font-smoothing: antialiased;
   background-color:#2381E6;
   color: #B5FBB0;
-  margin:0px 0px 30px 0px;
+  margin:0px 0px 0px 0px;
   
 }
 
@@ -15,20 +15,20 @@ h1{
 
 .navbar{
   font-family:'Poppins',sans-serif !important;
-  background-color:#2381E6 !important;
+  background-color:#FED3CC !important;
   padding-top:20px;
   padding-bottom:20px;
 
 }
 
 .nav-link{
-  color: #B5FBB0 !important;
+  color: #1f6dc0 !important;
   font-family:'Poppins',sans-serif !important;
   font-size: 18px !important;
 }
 
 .navbar-brand{
-  color: #B5FBB0 !important;
+  color: #1f6dc0!important;
   font-family:'Poppins',sans-serif !important;
   font-size: 30px !important;
   padding-right: 30px;
@@ -36,7 +36,7 @@ h1{
 }
 
 .navbar-toggler{
-  color: #B5FBB0 !important;
+  color: #1f6dc0 !important;
 }
 
 .container{
@@ -164,4 +164,15 @@ h1{
 
 .album{
   background-color:#FED3CC!important;
+}
+
+.footer{
+  background-color:#FED3CC!important;
+}
+
+.text-footer{
+  color: #1f6dc0!important;
+  font-family:'Poppins',sans-serif !important;
+  font-size: 18px;
+
 }
