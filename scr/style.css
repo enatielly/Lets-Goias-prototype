@@ -101,3 +101,67 @@ h1{
 .card-img-top:hover {
   transform: scale(1.1);
 }
+
+.acordao{
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.accordion-body{
+  background-color:#FED3CC!important;
+  color:#2381E6!important;
+}
+
+.accordion-header{
+  background-color:#2381E6!important;
+}
+
+.accordion-collapse{
+  background-color:#FED3CC!important;
+}
+
+.accordion-text{
+  color:#2381E6!important;
+}
+
+.accordion-button{
+  background-color:#91E4D9!important;
+}
+
+.form-select{
+  border-radius: 20px;
+}
+
+.contato-body{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  background-color: #91E4D9;
+  border-radius: 20px;
+  color: #2381E6!important;
+  font-weight: 700;
+}
+
+.form-registro{
+  color:#2381E6!important;
+}
+
+.head-registro{
+  color:#2381E6!important;
+}
+
+.btn-saber{
+  background-color:#FED3CC!important;
+}
+
+.btn-contato{
+  max-width: 100px;
+}
+
+.album{
+  background-color:#FED3CC!important;
+}
